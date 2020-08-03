@@ -11,3 +11,6 @@ for example: If you wanted to view your profile, you would type "4" then press e
 
 This is an entry level app.
 To exit the application, you will need to press "5" and enter.
+
+API Credit
+https://api.openbrewerydb.org/breweries
