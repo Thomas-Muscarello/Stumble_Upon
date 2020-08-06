@@ -15,12 +15,16 @@ To exit the application, you will need to press "5" and enter.
 API Credit
 https://api.openbrewerydb.org/breweries
 
-#Installation
+# Installation
 To install this app, clone and execute the following:
-`$ ./Stumble_Upon/bin/run`
+`Stumble_Upon`
+`bundle install`
 
-#Contribulting
+# Running the App
+`bin/run`
+
+# Contribulting
 Bug reports and pull requests are welcome on GitHub at https://github.com/Thomas-Muscarello/Stumble_Upon. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
-#License
+# License
 The gem is available as open source under the terms of the https://opensource.org/licenses/MIT.
