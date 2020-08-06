@@ -101,7 +101,6 @@ class CLI
       input = gets.chomp
       brewery = @api.find_brewery_by_city(input)
       if brewery.class == Brewery
-        binding.pry
         brewery.pretty_print
         else
          puts "We couldn't find a city by that name".colorize(:red)
