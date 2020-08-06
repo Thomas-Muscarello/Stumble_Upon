@@ -17,7 +17,7 @@ https://api.openbrewerydb.org/breweries
 
 # Installation
 To install this app, clone and execute the following:
-`Stumble_Upon`
+`Stumble_Upon`, then
 `bundle install`
 
 # Running the App
